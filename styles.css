@@ -15,9 +15,9 @@ h2{
             border: 1px solid black;
             height: 14px;
         }
-		.middle{
+		.tb1 .middle{
 			text-align: center;
 		}
-        .right{
+        .tb1 .right{
             text-align: right;
         }
