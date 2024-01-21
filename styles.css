@@ -5,15 +5,14 @@ h2{
         table{
             font-family: 'Times New Roman', Times, serif;
             table-layout: fixed;
-            width: 70%;
+            width: 100%;
             border: 1px solid black;
-            margin: 1px; 
-            Padding: 1px
+           
         }       
         tr,td{
             width:33%;
             border: 1px solid black;
-            height: 14px;
+            height: 24px;
         }
 		.tb1 .middle{
 			text-align: center;
