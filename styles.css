@@ -7,16 +7,20 @@ table{
 	table-layout: fixed;
 	width: 100%;
 	border: 1px solid black;
-	padding: 1px;	
+	padding: 1px;
+	border-spacing: 1px;
 }       
 tr,td{
 	width:33%;
 	border: 1px solid black;
 	height: 24px;
 }
-.tb1 .middle{
+#t11 ,#t12, #t13{
+	text-align: left;
+}
+.middle{
 	text-align: center;
 }
-	.tb1 .right{
+.right{
 	text-align: right;
 }
